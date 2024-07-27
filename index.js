@@ -2,7 +2,7 @@
 
 var util = require('util');
 var stream = require('stream');
-var noble = require('noble');
+var noble = require('@abandonware/noble');
 var debug = require('debug')('ble-serial');
 
 

@@ -1,6 +1,6 @@
 {
   "name": "ble-serial",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "description": "Virtual serial device over BLE",
   "main": "index.js",
   "repository": "git@github.com:monteslu/ble-serial.git",
@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "debug": "4.3.5",
-    "noble": "1.9.2"
+    "@abandonware/noble": "1.9.2-25"
   }
 }
